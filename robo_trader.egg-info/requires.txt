@@ -1,0 +1,8 @@
+pandas==2.2.2
+matplotlib==3.9.1
+plotly==5.22.0
+websocket-client==1.8.0
+twelvedata[matplotlib,pandas,plotly,websocket-client]==1.2.15
+python-dotenv==1.0.1
+pyodbc==5.1.0
+SqlAlchemy==2.0.32

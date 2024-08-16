@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: robo-trader
+Version: 0.1.0
+Summary: Robo Trading Platform for learning purposes
+Author: Jan Matter
+Author-email: jan.matter@outlook.com
+Requires-Dist: pandas==2.2.2
+Requires-Dist: matplotlib==3.9.1
+Requires-Dist: plotly==5.22.0
+Requires-Dist: websocket-client==1.8.0
+Requires-Dist: twelvedata[matplotlib,pandas,plotly,websocket-client]==1.2.15
+Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: pyodbc==5.1.0
+Requires-Dist: SqlAlchemy==2.0.32
